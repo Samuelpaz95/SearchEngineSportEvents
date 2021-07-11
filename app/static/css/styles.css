@@ -1,0 +1,9 @@
+@media (min-width: 995px) {
+    .search-click {
+        width: 50vh;
+        transition: all 0.5s;
+    }
+    .search-click:focus {
+        width: 100vh;
+    }
+}
